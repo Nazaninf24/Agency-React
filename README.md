@@ -2,7 +2,7 @@
 #### THPNEXT
 ##### How to Install
 
-> Download the Project and open it into your terminal or Clone it
+> Download the Project or Clone then open it on your terminal :
 
 >$ npm install
 
