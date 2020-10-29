@@ -1,5 +1,5 @@
-##Agency-React-Intl
-###THPNEXT
+## Agency-React-Intl
+### THPNEXT
 #### How to Install
 
 > Download the Project and open it into your terminal or Clone it
