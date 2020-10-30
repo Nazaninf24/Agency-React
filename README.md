@@ -1,4 +1,4 @@
-## Agency-React-Intl
+## Agency-React
 #### THPNEXT
 ##### How to Install
 
